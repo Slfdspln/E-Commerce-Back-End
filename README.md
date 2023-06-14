@@ -53,7 +53,7 @@ This application is powered by Node.js (v16.19.1), Express.js (v14.17.1), JavaSc
 
 ## Installation
 
-1. Clone the repo: git clone 
+1. Clone the repo: git clone git@github.com:Slfdspln/E-Commerce-Back-End.git
 
 2. Open in VS Code. If you do not have VS code you must install it.
 
