@@ -41,6 +41,8 @@ https://drive.google.com/file/d/1_X3RTV-uSrPoPYFlvuF2TvFFi-ZD1I2C/view
 
 ## Screenshots 
 
+<img width="1470" alt="Screenshot 2023-06-23 at 5 08 54 PM" src="https://github.com/Slfdspln/E-Commerce-Back-End/assets/121422214/72214291-197b-4238-a430-483b0a5faa2c">
+<img width="1470" alt="Screenshot 2023-06-23 at 5 09 18 PM" src="https://github.com/Slfdspln/E-Commerce-Back-End/assets/121422214/794284d6-5060-4ad2-b649-29c094b9c2f0">
 
 ## Technologies Used
 
