@@ -7,9 +7,6 @@ Week-13 Challenge (Object-Relational-Mapping)
 
 *  [Description](#Description)
           <a name=“Description”></a>
-          
-*  [Live-URL-of-Deployed-Application](#Live-URL-of-Deployed-Application)
-          <a name="Live-URL-of-Deployed-Application"></a>
 
 *  [Screenshots](#Screenshots)
           <a name="Screenshots"></a>
@@ -35,11 +32,8 @@ Week-13 Challenge (Object-Relational-Mapping)
 
 ##  Description 
 
-This application provides an integrated MySQL database and Sequelize for efficient management of e-commerce businesses. Sequelize serves as an ORM, enhancing code readability and reusability. Users can interact with the database through API routes, eliminating the need for a user interface. Overcoming challenges with table joins, the application simplifies complex relationships between categories, products, and tags. Future plans include implementing unit testing for reliability and expanding the database to encompass other business aspects. By continuously improving and adapting, this application empowers e-commerce businesses to streamline operations, enhance user experiences, and stay competitive in the evolving industry.
+This application provides an integrated MySQL database and Sequelize for the efficient management of e-commerce businesses. Sequelize serves as an ORM, enhancing code readability and reusability. Users can interact with the database through API routes, eliminating the need for a user interface. Overcoming challenges with table joins, the application simplifies complex relationships between categories, products, and tags. Future plans include implementing unit testing for reliability and expanding the database to encompass other business aspects. By continuously improving and adapting, this application empowers e-commerce businesses to streamline operations, enhance user experiences, and stay competitive in the evolving industry.
 
-## Live-URL-of-Deployed-Application 
-
-In-progress of fixing
  
 ##  Live Screen Recording of Application Functionality 
 
@@ -56,9 +50,9 @@ This application is powered by Node.js (v16.19.1), Express.js (v14.17.1), JavaSc
 
 1. Clone the repo: git clone git@github.com:Slfdspln/E-Commerce-Back-End.git
 
-2. Open in VS Code. If you do not have VS code you must install it.
+2. Open in VS Code. If you do not have VS code, you must install it.
 
-3. Using the terminal, install node.js v16. If you have homebrew, the command should look like the following (brew install node@16), however this may vary and the documentation should be consulted.
+3. Using the terminal, install node.js v16. If you have homebrew, the command should look like the following (brew install node@16), however, this may vary, and the documentation should be consulted.
 
 4. Once node.js v16 is installed, in the terminal, utilize the command npm init -y to initialize and create a package.json where project files will be stored.
 
